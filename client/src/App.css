@@ -1,0 +1,19 @@
+h1{ 
+    text-align: center;
+    color: white;
+    line-height: 4rem;
+    font-size: 2.5rem;
+    text-decoration: underline rgb(255, 255, 255) 1px;
+
+}
+h2 {
+    text-decoration: underline 0.5px rgb(47, 44, 44);
+}
+label {
+    color: white;
+    font-size: 18px;
+}
+* {
+    margin: 0px 0px 10px 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
